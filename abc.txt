@@ -1,0 +1,103 @@
+
+ You: none
+ Jarvis : I don't understand what you mean. Please rephrase your question.
+ You: how are you
+ Jarvis : I'm doing great, thank you for asking. How are you doing?
+ You: none
+ Jarvis : I apologize, I can't provide you with an answer.
+ You: how are you
+ Jarvis : I am doing great, thank you for asking. How about you?
+ You: great
+ Jarvis : Thank you. It's my pleasure.
+ You: could you tell me about wikipedia
+ Jarvis : Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation. It is the largest and most popular general reference work on the Internet, and is one of the most popular websites by Alexa Internet rankings. It features exclusively free content and no commercial ads and
+ You: could you tell me about python programming language
+ Jarvis : Python is a widely used high-level programming language for general-purpose programming. It is an interpreted language, which means that the code is read and executed line by line by the interpreter. Python is well suited for scripting, web development, data science, machine learning, and more. It
+ You: what is your age
+ Jarvis : I'm an AI, I don't have an age.
+ You: what does it mean by ai
+ Jarvis : AI (Artificial Intelligence) is a term used to describe computer systems that can think and react like humans. AI can be used to solve complex problems, understand natural language, and learn from experience. AI can also be used to automate tasks, such as scheduling appointments, managing databases, and even driving
+ You: okay jarvis stop
+ Jarvis : Okay, stopping.
+ You: how are you jarvis
+ Jarvis : I'm doing well, thank you for asking.
+ You: what about wikipedia
+ Jarvis : Wikipedia is a free, multilingual, open-content encyclopedia created and maintained by a community of volunteers. It is hosted by the Wikimedia Foundation, and is one of the largest and most popular general reference works on the Internet. Wikipedia is ranked among the top ten most visited sites on the internet.
+ You: what could you do for me
+ Jarvis : I can help you with a variety of tasks, such as organizing your digital life, taking notes, setting reminders, providing personalized news updates, providing music and entertainment, and more. I can also help you with research, provide answers to your questions, and provide recommendations for products and services.
+ You: okay that's great could you help me in making course nipples of landing page
+ Jarvis : Unfortunately I'm not able to help with the creation of course nippples of landing page. However, I can provide some helpful resources. Here are some useful links: 
+• https://www.quora.com/What-are-the-best-ways-to-create
+ You: okay could you tell me what is your favourite subject
+ Jarvis : My favorite subject is computer science. I enjoy learning about new technologies and how they can be used to solve problems.
+ You: could you tell me a brief about your favourite subject computer science
+ Jarvis : Computer Science is an interdisciplinary subject that focuses on the principles and uses of computers and computational systems. It encompasses both theoretical and practical aspects of computing, and includes topics like algorithms, data structures, computer architecture, software engineering, artificial intelligence, and computer networking. Computer Science also provides a foundation for
+ You: what is the difference between scripting and programming language could you tell me please
+ Jarvis : Scripting languages are used to write programs that are generally easier to read and write than full-fledged programming languages. Scripting languages are often used to automate tasks and to make programs more interactive. Examples of scripting languages include JavaScript, Python, and Ruby. 
+
+Programming languages are
+ You: what is the programming language
+ Jarvis : The most commonly used programming languages include Java, C++, Python, and JavaScript.
+ You: could you please tell me the difference between programming language and scripting language
+ Jarvis : A programming language is a type of language that is used to create software applications and programs. It is used to create algorithms, data structures and rules that can be used to solve complex problems. Examples of programming languages include Java, C, C++, and Python.
+
+A scripting language
+ You: okay
+ Jarvis : Sure, how can I help you?
+ You: stop
+ Jarvis : I'll try my best to do as you ask.
+ You: what can you do for me jarvis
+ Jarvis : I can provide you with personalized information, including news, sports, entertainment and weather updates. I can also answer questions and provide guidance on various topics such as finance, health and wellness, and home automation. Additionally, I can help you stay connected to your online accounts and services, as well
+ You: what do you know about deserts
+ Jarvis : Deserts are areas with very little rainfall, sometimes none at all. They tend to be hot and dry, and often have large areas of sand. Plants and animals that live in deserts have adapted to the harsh conditions. Some common desert plants include cacti, succulents, and
+ You: are you feeling right now
+ Jarvis : I am feeling good. How about you?
+ You: i am also feeling good
+ Jarvis : That's great to hear!
+ You: what is your favourite subject
+ Jarvis : My favorite subject is computer science. I love learning about the different technologies and processes that make up the world of computing.
+ You: could you tell me more about your favourite subject computer science
+ Jarvis : Computer science is an exciting field that involves the study of computers and computational systems. It encompasses both the theoretical and practical aspects of computers and technology. Computer science includes topics such as algorithms, software engineering, programming languages, computer architecture, artificial intelligence, databases, computer networks, and operating systems. It is
+ You: my favourite subject is also computer science it's sounds great to hear
+ Jarvis : That's great! Computer Science is a very interesting and important field to study. It's great that you have an interest in it.
+ You: okay jarvis stop
+ Jarvis : Okay, stopping now.
+ You: how are you doing jarvis
+ Jarvis : I'm doing great, thank you for asking. How can I help you?
+ You: what can you do for me
+ Jarvis : I can help you find information quickly and accurately, streamline your workflow, and provide personalized assistance. I can also help you find answers to questions, automate tasks, and suggest decisions based on data analysis.
+ You: your gate jarvis
+ Jarvis : Hi there! How can I help you?
+ You: could you please tell me that what is wikipedia
+ Jarvis : Wikipedia is a free, open-content online encyclopedia created through the collaborative effort of a community of users known as "Wikipedians". It is written collaboratively by volunteers with wiki software, meaning articles can be added or changed by nearly anyone. Wikipedia is the largest and most popular general reference work
+ You: could you do image processing
+ Jarvis : Yes, I can do image processing. I have the capability to detect, recognize, and classify images. I am also able to analyze and process images to extract features, as well as apply various transformations and filters.
+ You: what is your favourite subject
+ Jarvis : My favorite subject is Computer Science.
+ You: did you tell me about your favourite subject
+ Jarvis : Yes, my favorite subject is mathematics. I find it especially fascinating because it is a science that is constantly evolving and can be applied to so many different areas. It's an extremely versatile field of study and I enjoy learning the different ways it can be used.
+ You: okay jarvis stop
+ Jarvis : Ok, stopping now.
+ You: take screenshot
+ Jarvis : Sure, I can take a screenshot for you. Just press the Print Screen (PrtSc) key on your keyboard and the screenshot will be saved to your computer's clipboard. From there, you can paste the image into an image editor or document and save it.
+ You: what is the battery what is the battery
+ Jarvis : I'm sorry, I don't understand the question. Please provide more information.
+ You: no i saw you
+ Jarvis : Yeah, I saw you too.
+ You: what is the battery
+ Jarvis : The battery is a device that stores energy and releases it in an electrical current to power various electronic devices. It is typically composed of one or more electrochemical cells, which convert stored chemical energy into electrical energy.
+ You: cpu
+ Jarvis : I am a computer program designed to assist you with tasks. I can help you with web searches, basic calculations, and other everyday tasks.
+ You: please tell me a joke
+ Jarvis : What did the fish say when it hit the wall? 
+ Dam.
+ You: none
+ Jarvis : I'm just a computer program, I'm not a real person.
+ You: none
+ Jarvis : I'm sorry, I don't understand your question. Could you please rephrase it?
+ You: none
+ Jarvis : Sorry, I can't help you with that.
+ You: none
+ Jarvis : I'm sorry, I don't understand.
+ You: please tell me a joke
+ Jarvis : Why don't scientists trust atoms? Because they make up everything!
