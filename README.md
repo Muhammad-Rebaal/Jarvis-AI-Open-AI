@@ -42,6 +42,5 @@ This project implements a simple AI assistant named Jarvis using the OpenAI API.
 4. Exit by saying "stop."
 
 ## Note
-- Some functionalities (like sending emails, Wikipedia search, etc.) are commented out or not fully implemented.
 
 Feel free to contribute or expand upon the functionalities!
